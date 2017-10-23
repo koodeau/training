@@ -1,18 +1,15 @@
 <?php
-
-	function space($one)
+function space($one)
+{
+	if($one<=10)
 	{
-		if($one<=10)
+		while($one<=10)
 		{
-			while($one<=10)
-			{
-				echo "<br />";
-				$one++;
-			}
+			echo "<br />";
+			$one++;
 		}
-			
-	}
+	}			
+}
 
-	
-	$space = space(3);
-	echo $space;
+$space = space(3);
+echo $space;
