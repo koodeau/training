@@ -1,5 +1,6 @@
 <?php
 # This function gets empty space to page (<br /> 10 times)
+# Developed by Nick Williamson @koodeau
 function space($one)
 {
 	if($one<=10)
