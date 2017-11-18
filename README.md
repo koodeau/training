@@ -1,2 +1,3 @@
-# training
-It's my git training repository https://koodeau.ga
+##Training Repository
+
+Here you'll be able to configuring learn view or creating new files.
